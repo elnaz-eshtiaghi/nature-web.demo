@@ -9,7 +9,7 @@
 ![project1 5](https://github.com/elnaz-eshtiaghi/project.1/assets/146030206/0f736132-0024-468a-8bc6-fa2b5613df75)
 ![project1 6](https://github.com/elnaz-eshtiaghi/project.1/assets/146030206/758c79ad-7c1b-48b6-8102-86cb57c6dfe9)
 
-- [Demo Project](https://elnaz-eshtiaghi.github.io/vertical.meu/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/project.1/)
 
 - Developed by elnaz eshtiaghi
 
