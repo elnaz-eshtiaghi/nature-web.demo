@@ -4,7 +4,7 @@
 
 ![project1 1](https://github.com/elnaz-eshtiaghi/project.1/assets/146030206/ef3d7699-32f8-4bfa-8622-3039d3885361)
 
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/nature-demo/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/nature-web.demo/)
 
 - Developed by elnaz eshtiaghi
 
